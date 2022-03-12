@@ -1,0 +1,5 @@
+<title>Отсутствует ограничение по количеству знаков в поле "Пароль" в форме регистрации</title>
+<step_1>Открыть раздел "Личный кабинет" - https://shop.erarta.com/ru/shop/login/registration.html</step_1>
+<step_2>Перейти в раздел "Регистрация" под формой для входа</step_2>
+<expected_result>В поле Пароль есть ограничение до 10 символов</expected_result>
+<actual_result>В поле Пароль можно ввести более 10 знаков</actual_result>			
