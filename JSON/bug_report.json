@@ -1,0 +1,9 @@
+{
+  "Title": "no limit on the number of symbols in the password box of the registration form",
+  "Steps": [
+   "1. open (https://shop.erarta.com/ru/shop/login/registration.html)",
+   "2. go to the registration section" ],
+  "Expected_result": "there is a limit of up to 10 symbols in the password box",
+  "Actual_result": "more than 10 symbols can be entered in the box"
+
+}
