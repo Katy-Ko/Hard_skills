@@ -1,0 +1,32 @@
+#!/bin/bash
+cd script
+mkdir folder_2 folder_3 folder_4
+cd folder_4
+touch fl_1.txt fl_2.txt fl_3.txt fl_4.json fl_5.json
+mkdir one two three
+ls -la
+mv fl_1.txt one/
+mv fl_2.txt one/
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+my_first_script.txt[+] [unix] (17:37 06/04/2022)                         3,1 All
+-- INSERT --
+
